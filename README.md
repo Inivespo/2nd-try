@@ -7,7 +7,7 @@
 
 <h1 id="demo"></h1>
 
-var x = 5;
+var x = 15;
 document.getElementById("demo").innerHTML = x;
 
 <script src="javascript.js"></script>
