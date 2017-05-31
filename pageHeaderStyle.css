@@ -1,0 +1,51 @@
+body{
+	font-family: Tahoma, Geneva, sans-serif;
+    background-color: #f5f5f5;
+}
+header{
+	border: 1px dashed black;
+}
+.cookies{
+	text-align: center;
+	background-color: #3E3E3E;
+	padding: 1rem;
+}
+.cookies p{
+	color: white;
+	display: inline;	
+	padding: 2rem 2rem;
+}
+.cookies a{
+	color: white;
+	display: inline;
+	padding: 2rem 2rem;	
+}
+.cookies .cookies-btn{
+	float: right;
+	text-align: center;
+	width: 75px;
+	background-color: #4285f4;
+	color: white;
+	border-radius: 5px;
+}
+.cookies .cookies-btn i span{
+	border-rigth: 1px solid grey;
+}
+
+.black-menu{
+	background-color: #262d33;
+}
+.red-menu{
+	background-color: #b72019;
+}
+.red-menu img{
+	width: 150px;
+}
+.home-menu{
+	background-color: #b72019;
+}
+.red-menu{
+	background-color: #b72019;
+}
+
+
