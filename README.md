@@ -3,7 +3,7 @@
 <head>
 <title>2nd-try</title>
 </head>
-<body>
+<body bgcolor="#FF0000">
 
 <h1 id="demo"></h1>
 
