@@ -8,9 +8,9 @@
 
 <h1 id="demo"></h1>
 
+<script>
 var x = 15;
 document.getElementById("demo").innerHTML = x;
-
-<script src="javascript.js"></script>
+</script>
 </body>
 </html>
