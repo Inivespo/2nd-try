@@ -4,6 +4,7 @@
 <title>2nd-try</title>
 </head>
 <body>
+<p>Some text added</p>
 
 <h1 id="demo"></h1>
 
